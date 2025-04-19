@@ -20,6 +20,10 @@ EDA & Visualization
 
 Cyclistic’s 12-month ride data, split into 4 quarterly CSV files from the year 2019.
 
+The dataset used in this project is too large to upload directly to GitHub.
+
+🔗 You can download it here: [Download Dataset from Google Drive]
+
 🛠️ Process Overview
 
 Data Cleaning: Standardized mismatched column names across quarters.
