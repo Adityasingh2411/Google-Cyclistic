@@ -1,4 +1,4 @@
-🚲 Cyclistic Bike-Share Case Study (Google Capstone)
+🚲 # Cyclistic Bike-Share Case Study (Google Capstone)
 
 📌 Project Objective
 
