@@ -36,7 +36,6 @@ Exploratory Data Analysis: Uncovered patterns using visualizations.
 
 Insights & Recommendations: Based on rider behavior.
 
-Modeling: Built a logistic regression classifier to predict rider type (casual vs member).
 
 📊 Key Business Questions Answered
 
