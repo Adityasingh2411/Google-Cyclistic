@@ -81,6 +81,11 @@ No demographic data included.
 Weather, traffic, and event impact not considered.
 
 Station coordinates unavailable for mapping.
+ 📄 Project Files
+
+📘 [View Jupyter Notebook](Google_Cyclistic_Bike_Share_Analysis.ipynb)  
+📊 [View Project Presentation (PDF)](Cyclistic_Case_Study_Presentation.pdf)  
+📂 [Download PowerPoint File](Cyclistic_Case_Study_Presentation.pptx)
 
 
 👤 Author
