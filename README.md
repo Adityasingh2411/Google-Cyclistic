@@ -22,7 +22,7 @@ Cyclistic’s 12-month ride data, split into 4 quarterly CSV files from the year
 
 The dataset used in this project is too large to upload directly to GitHub.
 
-🔗 You can download it here: [Download Dataset from Google Drive]
+🔗 You can download it here: [Download Dataset from Google Drive](https://drive.google.com/drive/folders/1_FXn9aWu-fdm8jW2DD5V_PVdRFLgOT3v?usp=sharing)
 
 🛠️ Process Overview
 
